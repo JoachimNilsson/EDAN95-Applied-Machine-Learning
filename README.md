@@ -7,6 +7,7 @@ Some topics and algorithms that were touched upon in the labs:
 - k-Means clustering
 - k-NN classifier
 - Decision Trees
+- ID3 algorithm
 - Convolutional neural network (CNN)
 - Recurrent neural network (RNN)
 - Long short-term memory (LSTM)
